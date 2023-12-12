@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/eg-moves/static/css/main.91cbd62f.css",
+    "main.js": "/eg-moves/static/js/main.f617d8c1.js",
+    "index.html": "/eg-moves/index.html",
+    "main.91cbd62f.css.map": "/eg-moves/static/css/main.91cbd62f.css.map",
+    "main.f617d8c1.js.map": "/eg-moves/static/js/main.f617d8c1.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.91cbd62f.css",
+    "static/js/main.f617d8c1.js"
+  ]
+}
