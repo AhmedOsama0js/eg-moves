@@ -1,0 +1,83 @@
+.search-main-container{
+  display: flex;
+  align-items: center;
+  flex-direction: column;
+  height: 100%;
+  gap:10px ;
+  overflow: hidden;
+}
+.search {
+  width: 100%;
+  height: 17%;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  flex-direction: column;
+  gap: 10px;
+}
+
+.search .search-input {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.search .search-input label {
+  height: 100%;
+  width: 30px;
+  background-color: var(--yellow-color);
+  border-bottom-left-radius: 5px;
+  border-top-left-radius: 5px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  color: black;
+}
+
+.search .search-input input {
+  border: none;
+  border-top-right-radius: 5px;
+  border-bottom-right-radius: 5px;
+  height: 30px;
+  padding-left: 10px;
+}
+.search .btn-grope{
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  gap: 10px;
+}
+@media(max-width:776px){
+  .search .btn-grope{
+    gap: 5px;
+  }
+}
+.search .btn-grope button,
+.search .btn-grope select,
+.search .btn-grope select option{
+  border: 1px solid var(--yellow-color);
+  background-color: rgba(0, 0, 0, 0.432);
+  padding: 5px 10px;
+  border-radius: 20px;
+  color: white;
+  transition: 0.5s;
+}
+
+.search .btn-grope button:hover,
+.search .btn-grope select:hover,
+.search .btn-grope button.active,
+.search .btn-grope select.active{
+  background-color: var(--yellow-color);
+  color: black;
+}
+
+.search .details{
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  gap: 10px;
+  text-transform:capitalize;
+}
+.search .details span span{
+ color: var(--yellow-color);
+}

@@ -1,0 +1,13 @@
+.switch-side{
+  position: absolute;
+  top: 70px;
+  left: 10px;
+  z-index: 10000;
+  height: fit-content;
+}
+
+@media(max-width:776px){
+  .switch-side{
+  left:5px;
+}
+}
