@@ -1,5 +1,5 @@
-# my-page
-## Demo: [eg-moves](https://ahmedosama0js.github.io/eg-moves/)
+# eg-movies
+## Demo: [eg-movies](https://ahmedosama0js.github.io/eg-moves/)
 
 
 ### This Project, Developed Using React, Provides A Comprehensive Showcase Of Movie Details. It Boasts Numerous Features, Displaying Each Film With An Attractive Layout And Showcasing Movie Ratings. Additionally, It Offers Extra Functionalities Such As Arabic Language Translation And The Ability To Search For Specific Movies, Enhancing The User Experience And Making The Project Both Enjoyable And Practical. Moreover, It Is Responsive, Ensuring Compatibility With Screens Of All Sizes.
